@@ -11,6 +11,7 @@ def  circle():
         luc.fd(distance)
         luc.lt(1)
 
+thisis a sentence
 
 for i in range(6):
     luc.pu()
